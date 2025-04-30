@@ -4,7 +4,9 @@
 
 Bao gồm slide của thầy [Huỳnh Việt Thắng](https://sites.google.com/site/hvthangete/home) - Khoa Điện tử viễn thông, Đại học Bách Khoa Đà Nẵng.
 
-Có thể sử dụng [EDA playground](https://www.edaplayground.com/) hoặc tải ModelSim tại [đây](https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html).
+Có thể sử dụng [EDA playground](https://www.edaplayground.com/) hoặc tải ModelSim tại [đây](https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html). 
+
+Hoặc sử dụng icarus verilog + gtkwave + vscode (siêu recommend). Chỉ cần tải về tại [đây](https://bleyer.org/icarus/) phần mềm sẽ tự động cài thêm gtkwave và đường dẫn đến PATH, sau đó chỉ cần khởi động lại mấy có thể sử dụng oke. Có thể tìm thấy các cú pháp đơn giản cần thiết để chạy trong file note.txt.
 
 Tiếp đó là các bài tập cũng như bài làm của mình.
 
