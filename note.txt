@@ -1,0 +1,9 @@
+Code được thực hiện bằng icarus verilog + gtkwave
+
+cú pháp
+
+compile: iverilog -o <tên file mô phỏng> <tên file testbench> <tên file design>
+
+tạo waveform: vvp <tên file mô phỏng>
+
+hiển thị waveform: gtkwave <tên file waveform>.vcd
