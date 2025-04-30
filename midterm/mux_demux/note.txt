@@ -1,0 +1,1 @@
+trước mắt mạch chạy được đúng nguyên lý nhưng thứ tự input output của mạch mux vẫn còn đang hơi loạn xí, sẽ sửa lại sau
